@@ -20,10 +20,6 @@ body {
     padding: 10px 20px;
 }
 
-.header span {
-    font-size: 1.5em;
-    font-weight: bold;
-}
 
 .header .links a {
     margin-left: 15px;
